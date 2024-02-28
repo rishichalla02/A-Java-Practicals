@@ -1,4 +1,4 @@
-       public class Prac_1_2 {
+       public class Prac_1_3 {
             public static void main(String[] args) {
                
                 double a1 = 3.4, b1 = 50.2, c1 = 44.5;
