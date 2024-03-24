@@ -1,8 +1,9 @@
 import java.util.*;
 import java.lang.Math;
+import java.util.random.*;
 public class Prac_2_2Random {
     public static void main(String[] args) {
-        double[][] matrix = double java.lang.Math.random();
+        double[][] matrix = Random();
         double min = matrix[0][0];
         double min_i=0,  min_j=0;
 
