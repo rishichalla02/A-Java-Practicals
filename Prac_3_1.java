@@ -5,7 +5,7 @@ public class Prac_3_1 {
 
         String[] Numerics_Names = {"First", "Second", "Third", "Fourth", "Fifth"};
 
-        for(int i=0; i<num_Args; i++){
+        for(int i=0; i<numArgs; i++){
             System.out.println((i+1)+ ":"+Numerics_Names[i]+"Student Names are : "+args[i]);
         }
     }
