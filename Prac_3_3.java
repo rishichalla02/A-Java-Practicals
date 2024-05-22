@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class CartesianPoint {
     private int x;
     private int y;
@@ -53,7 +52,6 @@ public class Prac_3_3 {
         point2.display(); // Display new point
     }
 }
-=======
 class CartesianPoint {
     private int x;
     private int y;
@@ -108,4 +106,3 @@ public class Prac_3_3 {
         point2.display(); // Display new point
     }
 }
->>>>>>> 8b7233aaf466f5aada62e4e46a64670873d07dc9

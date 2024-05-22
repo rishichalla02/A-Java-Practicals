@@ -33,4 +33,3 @@ public class Prac_2_8 {
             return digitCount >= 2;
     }
 }
-            

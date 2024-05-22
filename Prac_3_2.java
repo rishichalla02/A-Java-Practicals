@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package first; 
  class Rectangle {
     // Data fields
@@ -57,7 +56,6 @@ class Prac_3_2{
         System.out.println("Perimeter: " + rectangle.getPerimeter());
     }
 }
-=======
 package first; 
  class Rectangle {
     // Data fields
@@ -116,4 +114,3 @@ class Prac_3_2{
         System.out.println("Perimeter: " + rectangle.getPerimeter());
     }
 }
->>>>>>> 8b7233aaf466f5aada62e4e46a64670873d07dc9
