@@ -1,38 +1,3 @@
-Student.java (in the student package):
-package student;
-
-public class Student {
-    private String name;
-    private String rollNumber;
-
-    public Student(String name, String rollNumber) {
-        this.name = name;
-        this.rollNumber = rollNumber;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getRollNumber() {
-        return rollNumber;
-    }
-}
-Result.java (in the exam package):
-package exam;
-
-public class Result {
-    private int marks;
-
-    public Result(int marks) {
-        this.marks = marks;
-    }
-
-    public int getMarks() {
-        return marks;
-    }
-}
-Prac_6_7.java 
 import student.Student;
 import exam.Result;
 
